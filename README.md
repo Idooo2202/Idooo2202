@@ -51,14 +51,13 @@ Saya adalah seorang pelajar jurusan Pengembangan Perangkat Lunak dan Gim (PPLG) 
 ---
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Idooo2202/Idooo2202/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Idooo2202/Idooo2202/output/github-contribution-grid-snake.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Idooo2202/Idooo2202/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Idooo2202/Idooo2202/output/pacman-dark.svg">
+    
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Idooo2202/Idooo2202/output/pacman-light.svg">
+    
+    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/Idooo2202/Idooo2202/output/pacman-dark.svg" width="100%">
   </picture>
 </div>
-
-_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
----
 
 <div align="center">
   <i>"Writing code, tweaking dotfiles, and lifting weights."</i>
