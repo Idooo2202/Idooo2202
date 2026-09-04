@@ -51,10 +51,8 @@ Saya adalah seorang pelajar jurusan Pengembangan Perangkat Lunak dan Gim (PPLG) 
 ---
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Idooo2202/Idooo2202/output/pacman-dark.svg">
-    
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Idooo2202/Idooo2202/output/pacman-dark.svg"> 
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Idooo2202/Idooo2202/output/pacman-light.svg">
-    
     <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/Idooo2202/Idooo2202/output/pacman-dark.svg" width="100%">
   </picture>
 </div>
