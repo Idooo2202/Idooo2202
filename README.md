@@ -3,7 +3,7 @@
 
   # Hi there, I'm Muhammad Ridho Al Fathir
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=PPLG+Student;Software+Engineering+%7C+AI+Enthusiast;Web+Developer;Game+Developer)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=PPLG+Student;Software+Engineering+%7C+AI+Engineering;Web+Developer;Game+Developer)](https://git.io/typing-svg)
 
   <div data-importer="socials" align="center">
     <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo" /></a>
