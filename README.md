@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="img/banner.gif" alt="Animated GitHub Banner" width="100%">
+  <!-- <img src="img/banner.gif" alt="Animated GitHub Banner" width="100%"> -->
 
-  # Hi there, I'm Muhammad Ridho Al Fathir! 👋
+  # Hi there, I'm Muhammad Ridho Al Fathir
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=PPLG+Student;Software+Engineering+%7C+AI+Enthusiast;Web+Developer;Game+Developer)](https://git.io/typing-svg)
 
@@ -18,7 +18,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 Saya adalah seorang pelajar jurusan Pengembangan Perangkat Lunak dan Gim (PPLG) berusia 17 tahun yang memiliki minat besar dalam dunia pemrograman web, software, *artificial intelligence*, dan eksplorasi teknologi baru.
 
@@ -40,7 +40,7 @@ Saya adalah seorang pelajar jurusan Pengembangan Perangkat Lunak dan Gim (PPLG) 
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 **Environment & Tools:**
 <br>
@@ -126,7 +126,7 @@ Saya adalah seorang pelajar jurusan Pengembangan Perangkat Lunak dan Gim (PPLG) 
 
 ---
 
-### 🎵 Currently Playing
+### Currently Playing
 
 <div align="center">
   <picture>
@@ -138,7 +138,7 @@ Saya adalah seorang pelajar jurusan Pengembangan Perangkat Lunak dan Gim (PPLG) 
 
 ---
 
-### 📈 GitHub Stats & Activity
+### GitHub Stats & Activity
 <div data-importer="stats" align="center">
   <img src="https://streak-stats.demolab.com?user=idooo2202&locale=en&mode=daily&theme=midnight-purple&hide_border=false&border_radius=45&order=3" alt="streak graph" height="195" />
   <img src="https://raw.githubusercontent.com/idooo2202/idooo2202/trophy-output/trophy.svg" height="150" alt="trophy graph" />
