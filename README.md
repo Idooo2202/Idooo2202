@@ -142,7 +142,7 @@ Saya adalah seorang pelajar jurusan Pengembangan Perangkat Lunak dan Gim (PPLG) 
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=idooo2202&locale=en&mode=daily&theme=midnight-purple&hide_border=false&border_radius=45&order=3" alt="streak graph" height="195" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Idooo2202&theme=onedark&column=4&row=2&margin-w=8&margin-h=8&no-bg=false&no-frame=false" alt="trophy graph" height="195" />
+  <img src="https://raw.githubusercontent.com/Idooo2202/Idooo2202/trophy-output/trophy.svg" alt="trophy graph" height="195" />
 </div>
 <br>
 
