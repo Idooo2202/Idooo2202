@@ -1,9 +1,11 @@
 name: Generate trophy card
 
 on:
-  schedule:
-    - cron: "0 */12 * * *"
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
+
   workflow_dispatch:
+
   push:
     branches:
     - main
@@ -12,17 +14,10 @@ jobs:
   generate:
     permissions:
       contents: write
-    # 🔥 INI KUNCINYA: Kita gunakan environment yang stabil (Ubuntu 22.04) agar plugin Deno lama tidak crash
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-latest
     timeout-minutes: 5
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Create dist directory
-        run: mkdir -p dist
-
       - name: generate trophy.svg
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
