@@ -3,7 +3,7 @@
 
   # Hi there, I'm Muhammad Ridho Al Fathir! 👋
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=PPLG+Student;Software+Engineering+%7C+AI+Engineering;OS+:+Arch+Linux+%26+DE+:+Hyprland;)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=PPLG+Student;Software+Engineering+%7C+AI+Enthusiast;Web+Developer;Game+Developer)](https://git.io/typing-svg)
 
   <div data-importer="socials" align="center">
     <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo" /></a>
@@ -20,7 +20,7 @@
 
 ### 👨‍💻 About Me
 
-Saya adalah seorang pelajar jurusan Pengembangan Perangkat Lunak dan Gim (PPLG) berusia 17 tahun yang memiliki minat besar dalam dunia pemrograman web, software, *artificial intelligence*, dan eksplorasi sistem operasi.
+Saya adalah seorang pelajar jurusan Pengembangan Perangkat Lunak dan Gim (PPLG) berusia 17 tahun yang memiliki minat besar dalam dunia pemrograman web, software, *artificial intelligence*, dan eksplorasi teknologi baru.
 
 - Saat ini sedang fokus mendalami **Software Engineering** dan membuat AI bernama **Reina Multi Agentic AI**.
 - Sering mengeksplorasi integrasi *AI tools* seperti Google AI Studio untuk membantu proses *development*, dll.
@@ -130,9 +130,9 @@ Saya adalah seorang pelajar jurusan Pengembangan Perangkat Lunak dan Gim (PPLG) 
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=ef0e3b8bk77q8xllabbfj2f7c&amp;theme=dark&amp;count=1&amp;width=600&amp;radius=15&amp;unique=1&amp;duration=1&amp;album=1&amp;footer=wave&amp;text_color=deddda&amp;accent_color=613583&amp;logo_color=5e5c64" />
-    <source media="(prefers-color-scheme: light)" srcset="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=ef0e3b8bk77q8xllabbfj2f7c&amp;theme=light&amp;count=1&amp;width=600&amp;radius=15&amp;unique=1&amp;duration=1&amp;album=1&amp;footer=wave&amp;text_color=deddda&amp;accent_color=613583&amp;logo_color=5e5c64" />
-    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=ef0e3b8bk77q8xllabbfj2f7c&amp;theme=dark&amp;count=1&amp;width=600&amp;radius=15&amp;unique=1&amp;duration=1&amp;album=1&amp;footer=wave&amp;text_color=deddda&amp;accent_color=613583&amp;logo_color=5e5c64" alt="Spotify recently played" width="600" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=ef0e3b8bk77q8xllabbfj2f7c&theme=dark&count=1&width=600&radius=15&unique=1&duration=1&album_art=0">
+    <source media="(prefers-color-scheme: light)" srcset="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=ef0e3b8bk77q8xllabbfj2f7c&theme=light&count=1&width=600&radius=15&unique=1&duration=1&album_art=0">
+    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=ef0e3b8bk77q8xllabbfj2f7c&theme=dark&count=1&width=600&radius=15&unique=1&duration=1&album_art=0" alt="Spotify Recently Played">
   </picture>
 </div>
 
@@ -141,7 +141,7 @@ Saya adalah seorang pelajar jurusan Pengembangan Perangkat Lunak dan Gim (PPLG) 
 ### 📈 GitHub Stats & Activity
 <div data-importer="stats" align="center">
   <img src="https://streak-stats.demolab.com?user=idooo2202&locale=en&mode=daily&theme=midnight-purple&hide_border=false&border_radius=45&order=3" alt="streak graph" height="195" />
-  <img src="https://raw.githubusercontent.com/idooo2202/idooo2202/trophy-output/trophy.svg?theme=onedark&column=4&row=2&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://raw.githubusercontent.com/idooo2202/idooo2202/trophy-output/trophy.svg" height="150" alt="trophy graph" />
 </div>
 <br>
 
@@ -155,6 +155,6 @@ Saya adalah seorang pelajar jurusan Pengembangan Perangkat Lunak dan Gim (PPLG) 
 <br>
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/idooo2202/idooo2202/activity-graph-output/activity-graph.svg?radius=16&theme=modern-lilac&area=true&order=5&point=FFFFFF&area_color=cb0dff" width="100%" alt="activity-graph graph" />
+  <img src="https://raw.githubusercontent.com/idooo2202/idooo2202/activity-graph-output/activity-graph.svg?radius=16&theme=modern-lilac&area=true&order=5&point=FFFFFF&area_color=cb0dff" width="100%" alt="GitHub Activity Graph" />
 </div>
 </div>
