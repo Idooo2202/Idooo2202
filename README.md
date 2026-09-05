@@ -130,9 +130,9 @@ Saya adalah seorang pelajar jurusan Pengembangan Perangkat Lunak dan Gim (PPLG) 
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=ef0e3b8bk77q8xllabbfj2f7c&theme=dark&count=1&width=600&radius=15&unique=1&duration=1&album_art=0">
-    <source media="(prefers-color-scheme: light)" srcset="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=ef0e3b8bk77q8xllabbfj2f7c&theme=light&count=1&width=600&radius=15&unique=1&duration=1&album_art=0">
-    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=ef0e3b8bk77q8xllabbfj2f7c&theme=dark&count=1&width=600&radius=15&unique=1&duration=1&album_art=0" alt="Spotify Recently Played">
+    <source media="(prefers-color-scheme: dark)" srcset="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=ef0e3b8bk77q8xllabbfj2f7c&amp;theme=dark&amp;count=1&amp;width=600&amp;radius=15&amp;unique=1&amp;duration=1&amp;album=1&amp;footer=wave&amp;text_color=deddda&amp;accent_color=613583&amp;logo_color=5e5c64" />
+    <source media="(prefers-color-scheme: light)" srcset="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=ef0e3b8bk77q8xllabbfj2f7c&amp;theme=light&amp;count=1&amp;width=600&amp;radius=15&amp;unique=1&amp;duration=1&amp;album=1&amp;footer=wave&amp;text_color=deddda&amp;accent_color=613583&amp;logo_color=5e5c64" />
+    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=ef0e3b8bk77q8xllabbfj2f7c&amp;theme=dark&amp;count=1&amp;width=600&amp;radius=15&amp;unique=1&amp;duration=1&amp;album=1&amp;footer=wave&amp;text_color=deddda&amp;accent_color=613583&amp;logo_color=5e5c64" alt="Spotify recently played" width="600" />
   </picture>
 </div>
 
